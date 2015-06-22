@@ -2,7 +2,7 @@ LDAP
 
 # Nielsen LDAP
 
-<this name="LDAP">
+<this name="LDAP" title=“Home title”>
 </this>
 
 This is an existing web service:

@@ -5,6 +5,8 @@ REST
 <this name="REST">
 </this>
 
+Interface description
+
 <interface name="View" protocol="REST/HTTP" return="XML">
 </interface>
 

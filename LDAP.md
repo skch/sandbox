@@ -12,6 +12,9 @@ This is an existing web service:
   <value name="email" type="text" />
   <value name="password" type="text" />
 </input>
+
+Change file twice
+
 <output>
   <value name="user" type="text" />
   <value name="groups" type="list" />

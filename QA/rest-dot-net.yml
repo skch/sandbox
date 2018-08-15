@@ -1,0 +1,5 @@
+---
+AppSettings:
+  Host: "PCF-QABox"
+  MicrosoftApiKey: "054655ac2be341d994dfc0f987707a05"
+  CacheDbResults: false

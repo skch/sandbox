@@ -1,5 +1,5 @@
 ---
 AppSettings:
-  Host: "PCF-QA"
-  MicrosoftApiKey: "8431ec7485784d5dabf"
+  Host: "PCF-Sandbox"
+  MicrosoftApiKey: "054655ac2be341d994dfc0f987707a05"
   CacheDbResults: false

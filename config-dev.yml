@@ -1,0 +1,5 @@
+---
+AppSettings:
+  Host: "PCF-DEV-FI"
+  MicrosoftApiKey: "8431ec7485784d5dabf"
+  CacheDbResults: false
